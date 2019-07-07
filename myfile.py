@@ -1,3 +1,4 @@
+
 print('Hello Pratima..')
 
 # array=[0,10,20,40]
@@ -17,4 +18,6 @@ Lst = [20, 25.4, 12, -16, -3.14, 3, -5, 7]
 Sorted_Lst = sorted(Lst)
 print(Sorted_Lst)
 print(Lst)
+
+print('Hello Pratima..')
 
